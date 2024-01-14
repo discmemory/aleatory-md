@@ -371,7 +371,7 @@ Usuário: @${sender.split("@")[0]}
 ◈• ${prefix}Rankgostosa
 ◈• ${prefix}Ranknazista
 ◈• ${prefix}Rankotakus
-◈• ${prefix}Rankfeio
+◈• ${prefix}Rankpau
 
 ──────────────────────────────
 
